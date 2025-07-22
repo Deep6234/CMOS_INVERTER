@@ -1,4 +1,10 @@
-# INVERTER:
+# Layout \& Schematic design of CMOS Inverter
+
+
+
+
+
+## INVERTER:
 
 
 
@@ -61,6 +67,3 @@ The design of a CMOS inverter, one of the most fundamental yet powerful building
 4. Analysis of the impact of layout parasitic on delay and power.
 5. Estimation of Power-Delay Product (PDP) to assess energy efficiency.
 6. This exercise strengthened my understanding of how layout parasitic influence circuit performance in the backend VLSI flow.
-
-
-
